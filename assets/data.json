@@ -1,0 +1,30 @@
+{
+  "operation_bases": [
+    {
+      "id": 1,
+      "name": "CHS Main Office (Nairobi)"
+    },
+    {
+      "id": 2,
+      "name": "CHS Naishi"
+    },
+    {
+      "id": 3,
+      "name": "CHS Shinda"
+    },
+    {
+      "id": 4,
+      "name": "CHS Tegemeza Plus"
+    }
+  ],
+  "activityStatuses": [
+    "Not Started",
+    "Ongoing",
+    "Completed"
+  ],
+  "piStatuses": [
+    "Not Started",
+    "Ongoing",
+    "Completed"
+  ]
+}

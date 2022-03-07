@@ -1,0 +1,251 @@
+{
+    "name": "Goal 2",
+    "description": "Engaging inspired and multi-competent individuals in a flexible work environment",
+    "lead": 1,
+    "objectives": [
+        {
+            "name": "Objective 1: To establish a flexible work arrangement that facilitates and responds to the novel and future work environment by 2021 ",
+            "lead": 1,
+            "start_date": "2021-06-20",
+            "deadline": "2022-10-20",
+            "strategies": [
+                {
+                    "name": "Create flexible staff contracting arrangements to include: part-time, secondment, flexi hours, job sharing among others, and its applicable reward system. "
+                },
+                {
+                    "name": "Deepen adoption of technology solutions as an enabler of flexibility in the workplace. "
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Update the existing HR policy to be in tandem with the existing and future trends.",
+                    "pis": [
+                        {
+                            "name": " Updated HR policy ( On flexibility)",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": " Utilization of updated Policy (Number of staff on flexible work arrangement)",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Enhance existing ICT infrastructure to enable remote access.",
+                    "pis": [
+                        {
+                            "name": "Number of ICT platforms being accessed remotely( Navision, CRIS, Fleet Management, Host to Host etc)",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop and implement an engaging online on-boarding module.",
+                    "pis": [
+                        {
+                            "name": "Availability of the online on boarding module (On boarding Curriculum)",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of new staff oriented through on boarding module",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Objective 2: To promote a culture of innovations by optimizing multi-competent, inspired, and passionate individuals who will add value to the organization ",
+            "lead": 1,
+            "start_date": "2021-06-20",
+            "deadline": "2022-10-20",
+            "strategies": [
+                {
+                    "name": "Develop a reward system for innovations. "
+                },
+                {
+                    "name": "Match strategic competencies of the workforce to available jobs in the workplace to optimize productivity."
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Develop a policy supporting a culture of innovation which will recognize and reward innovators.",
+                    "pis": [
+                        {
+                            "name": "Availability of the innovation policy",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of products and initiatives developed.  ",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of products and initiatives developed.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop a database of strategic skills and competencies",
+                    "pis": [
+                        {
+                            "name": " Availability of a skills and competence database.                             ",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Objective 3: To recruit and retain 95% of a dynamic workforce that will help achieve organizational goals ",
+            "lead": 1,
+            "start_date": "2021-06-20",
+            "deadline": "2022-10-20",
+            "strategies": [
+                {
+                    "name": "Automate the recruitment process to include online job applications."
+                },
+                {
+                    "name": "Adopt a structured internship & volunteership program "
+                },
+                {
+                    "name": "Establish a mentorship culture to boost internal capacity amongst staff"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Develop and deploy a recruitment module for online job application.",
+                    "pis": [
+                        {
+                            "name": "Availability of online recruitment module",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of applications done through the online module",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "To update the internship and volunteership policy.",
+                    "pis": [
+                        {
+                            "name": "Availabilty of updated internship and volunteership policy.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": " Number of interns and volunteers engaged.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop a framework to guide on mentorship & coaching.",
+                    "pis": [
+                        {
+                            "name": "Availability and roll-out of the coaching and mentorship policy.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of active mentors and mentees within the organization.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Objective 4: To engage people in positioning CHS as a brand ",
+            "lead": 1,
+            "start_date": "2021-06-20",
+            "deadline": "2022-10-20",
+            "strategies": [
+                {
+                    "name": "Develop a policy  to guide identification and engagement of CHS brand ambassadors:  ‘Friends of CHS’, CHS alumni"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Develop a framework to guide on brand ambassadorship",
+                    "pis": [
+                        {
+                            "name": "Availability of the policy on CHS brand ambassadorship.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop and disseminate brand ambassadorship policy documents to staff. ",
+                    "pis": [
+                        {
+                            "name": "Number of staff who have read the brand ambassadorship policy and responded to  the related survey",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop a criteria for employees to demonstrate how they perceive  the brand and recommendation for improvements: consultative forums",
+                    "pis": [
+                        {
+                            "name": "Number of staff brand engagement opportunities created",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Create a repository of virtual tours of staff experiences in their line of duty using the various digital media platforms.",
+                    "pis": [
+                        {
+                            "name": "Document and publicize experiences and testimonials from beneficiaries, staff, and other stakeholders.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop a framework to guide on identification and engagement of friends of CHS and her alumni.",
+                    "pis": [
+                        {
+                            "name": "Availability  of the framework for identification and engagement of friends of CHS and her alumni. ",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        },
+                        {
+                            "name": "Number of identified and engaged ‘Friends of CHS’ and CHS alumni.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Develop a standardized brief/ profile of CHS for regular dissemination by staff to different audiences.",
+                    "pis": [
+                        {
+                            "name": "Number of sensitized staff, friends and alumni.",
+                            "start_date": "2021-05-23",
+                            "due_date": "2021-10-23"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
