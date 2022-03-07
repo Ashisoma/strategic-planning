@@ -6,7 +6,7 @@
 ## Authors
 
 - **Onesmus Okali**
-<!-- - **Jemima** -->
+
 
 ## Description
 
@@ -19,10 +19,7 @@
 ## Technologies Used
 
 - PHP
-- JAVA
-- Android Studio
 - MySql
-- JWT
 - Bootstrap
 
 ## Installation Requirements
@@ -33,7 +30,7 @@
 
   - Clone/download the repository.
   - Create up a MySql database with name as is in the .env file.
-  - Run the spl file in ./assets folder in your workbench.
+  - Run the [sql](/db/chs_strategy.sql) in your workbench.
   - Move the project folder to htdocs to run with xampp/lampp/wampp.
 
 ## Support and contact details
