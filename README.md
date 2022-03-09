@@ -35,7 +35,7 @@
 
 ## Support and contact details
 
->Send an email to the current [development team](oonesmus@chskenya.org)
+>Send an email to the current [development team](mailto:oonesmus@chskenya.org)
 
 ### License
 
