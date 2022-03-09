@@ -192,6 +192,7 @@ function loadObjectives(objectives) {
 
         allObjectives.push(objective)
     })
+    //here
 
     createGanttAnyChart(chartData)
 
