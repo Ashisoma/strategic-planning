@@ -9,7 +9,7 @@
         <meta name="author" content />
         <title>CHS Strategy | Login</title>
         <link href="css/styles.css" rel="stylesheet" />
-        <link rel="icon" type="image/x-icon" href="images/ravelry-logo.png" />
+        <link rel="icon" type="image/x-icon" href="images/favicon.png" />
         <script data-search-pseudo-elements defer src="vendor/fontawesome-free/js/all.min.js" crossorigin="anonymous"></script>
         <script src="js/feather.min.js" crossorigin="anonymous"></script>
     </head>
@@ -126,7 +126,7 @@
                             // console.log(mResponse);
                             if(response.code = 200){
                                 // console.log(mResponse.data);
-                                window.location.replace("forgot_password.php");
+                                window.location.replace("forgot_password");
                              }else {
                             window.alert("Something went wrong. Please try again.");
                         }

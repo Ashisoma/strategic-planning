@@ -64,6 +64,24 @@ class UsersController extends BaseController{
         }
     }
 
+    
+    public static function forgot_pass($userData)
+    {
+        try {
+            $email = $userData['email'];
+            $password = $userData['password'];
+            $user = User::where('email', $email)->where('active', 0)->firstOrFail();
+            if ($user == null) throw new \Exception("User Not found.", -1);
+            $user->password = password_hash($password, PASSWORD_DEFAULT);
+            $user->active = 1;
+            $user->save();
+            echo myJsonResponse(200, "User registered successfully", $user);
+        } catch (\Throwable $e) {
+            Utility::logError($e->getCode(), $e->getMessage());
+            echo myJsonResponse($e->getCode(), "Error encountered. Try again later.", $e->getMessage());
+        }
+    }
+
     public static function password_reset($userData) 
     {
         try {

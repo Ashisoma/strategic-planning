@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content />
         <meta name="author" content />
-        <title>CHS Strategy | Register</title>
+        <title>CHS Strategy | Forgot Password</title>
         <link href="css/styles.css" rel="stylesheet" />
         <link rel="icon" type="image/x-icon" href="images/ravelry-logo.png" />
         <script data-search-pseudo-elements defer src="vendor/fontawesome-free/js/all.min.js" crossorigin="anonymous"></script>
@@ -105,7 +105,7 @@
                 } else {
                     $.ajax({
                         type:"POST",
-                        url:"register_request",
+                        url:"forgot_reset",
                         data:{
                             email: email,
                             password: password
@@ -120,7 +120,7 @@
                             }
                         },
                         error: error =>{
-                            window.alert("Unable to register.");
+                            window.alert("Unable to reset.");
                         }
                     });
                 }

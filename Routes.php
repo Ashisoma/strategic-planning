@@ -69,6 +69,11 @@ $router->post("/panel/register_request", function () {
     UsersController::register($userData);
 });
 
+$router->post("/panel/forgot_reset", function () {
+    $userData = $_POST;
+    UsersController::forgot_pass($userData);
+});
+
 $router->post("/panel/login_request", function () {
     $userData = $_POST;
     UsersController::login($userData);

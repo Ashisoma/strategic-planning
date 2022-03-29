@@ -7,9 +7,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content />
         <meta name="author" content />
-        <title>CHS Strategy | Register</title>
+        <title>CHS Strategy | Password Reset</title>
         <link href="css/styles.css" rel="stylesheet" />
-        <link rel="icon" type="image/x-icon" href="images/ravelry-logo.png" />
+        <link rel="icon" type="image/x-icon" href="images/favicon.png" />
         <script data-search-pseudo-elements defer src="vendor/fontawesome-free/js/all.min.js" crossorigin="anonymous"></script>
         <script src="js/feather.min.js" crossorigin="anonymous"></script>
     </head>
@@ -105,7 +105,7 @@
                 } else {
                     $.ajax({
                         type:"POST",
-                        url:"register_request",
+                        url:"forgot_reset",
                         data:{
                             email: email,
                             password: password
